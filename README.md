@@ -83,3 +83,33 @@ ___
 
 
 # Audit scope
+
+
+[root @ eafee50bd902b5468a6ebdc905feb169fb26b4be](https://github.com/equilibria-xyz/root/tree/eafee50bd902b5468a6ebdc905feb169fb26b4be)
+- [root/contracts/attribute/Instance.sol](root/contracts/attribute/Instance.sol)
+- [root/contracts/attribute/Kept/Kept.sol](root/contracts/attribute/Kept/Kept.sol)
+- [root/contracts/attribute/Kept/Kept_Arbitrum.sol](root/contracts/attribute/Kept/Kept_Arbitrum.sol)
+- [root/contracts/attribute/Kept/Kept_Optimism.sol](root/contracts/attribute/Kept/Kept_Optimism.sol)
+
+[perennial-v2 @ 7e60e69de9a613bfb449dc976801a000daa72aa4](https://github.com/equilibria-xyz/perennial-v2/tree/7e60e69de9a613bfb449dc976801a000daa72aa4)
+- [perennial-v2/packages/perennial-extensions/contracts/MultiInvoker.sol](perennial-v2/packages/perennial-extensions/contracts/MultiInvoker.sol)
+- [perennial-v2/packages/perennial-extensions/contracts/types/InterfaceFee.sol](perennial-v2/packages/perennial-extensions/contracts/types/InterfaceFee.sol)
+- [perennial-v2/packages/perennial-extensions/contracts/types/TriggerOrder.sol](perennial-v2/packages/perennial-extensions/contracts/types/TriggerOrder.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/Oracle.sol](perennial-v2/packages/perennial-oracle/contracts/Oracle.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/OracleFactory.sol](perennial-v2/packages/perennial-oracle/contracts/OracleFactory.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/keeper/KeeperFactory.sol](perennial-v2/packages/perennial-oracle/contracts/keeper/KeeperFactory.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/keeper/KeeperOracle.sol](perennial-v2/packages/perennial-oracle/contracts/keeper/KeeperOracle.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/pyth/PythFactory.sol](perennial-v2/packages/perennial-oracle/contracts/pyth/PythFactory.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/pyth/PythFactory_Arbitrum.sol](perennial-v2/packages/perennial-oracle/contracts/pyth/PythFactory_Arbitrum.sol)
+- [perennial-v2/packages/perennial-oracle/contracts/pyth/PythFactory_Optimism.sol](perennial-v2/packages/perennial-oracle/contracts/pyth/PythFactory_Optimism.sol)
+- [perennial-v2/packages/perennial-reward/contracts/Reward.sol](perennial-v2/packages/perennial-reward/contracts/Reward.sol)
+- [perennial-v2/packages/perennial-vault/contracts/Vault.sol](perennial-v2/packages/perennial-vault/contracts/Vault.sol)
+- [perennial-v2/packages/perennial-vault/contracts/lib/StrategyLib.sol](perennial-v2/packages/perennial-vault/contracts/lib/StrategyLib.sol)
+- [perennial-v2/packages/perennial/contracts/Market.sol](perennial-v2/packages/perennial/contracts/Market.sol)
+- [perennial-v2/packages/perennial/contracts/types/Local.sol](perennial-v2/packages/perennial/contracts/types/Local.sol)
+- [perennial-v2/packages/perennial/contracts/types/Order.sol](perennial-v2/packages/perennial/contracts/types/Order.sol)
+- [perennial-v2/packages/perennial/contracts/types/Position.sol](perennial-v2/packages/perennial/contracts/types/Position.sol)
+- [perennial-v2/packages/perennial/contracts/types/RiskParameter.sol](perennial-v2/packages/perennial/contracts/types/RiskParameter.sol)
+- [perennial-v2/packages/perennial/contracts/types/Version.sol](perennial-v2/packages/perennial/contracts/types/Version.sol)
+
+
