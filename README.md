@@ -83,16 +83,3 @@ ___
 
 
 # Audit scope
-
-
-[root @ eafee50bd902b5468a6ebdc905feb169fb26b4be](https://github.com/equilibria-xyz/root/tree/eafee50bd902b5468a6ebdc905feb169fb26b4be)
-- [root/contracts/attribute/Instance.sol](root/contracts/attribute/Instance.sol)
-- [root/contracts/attribute/Kept/Kept.sol](root/contracts/attribute/Kept/Kept.sol)
-- [root/contracts/attribute/Kept/Kept_Arbitrum.sol](root/contracts/attribute/Kept/Kept_Arbitrum.sol)
-- [root/contracts/attribute/Kept/Kept_Optimism.sol](root/contracts/attribute/Kept/Kept_Optimism.sol)
-
-[perennial-v2 @ b1c8847530cc9615dc422e8fa5cd2c3b9862f742](https://github.com/equilibria-xyz/perennial-v2/tree/b1c8847530cc9615dc422e8fa5cd2c3b9862f742)
-
-
-
-
